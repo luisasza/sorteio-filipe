@@ -10,6 +10,8 @@ using sorteio_filipe.Models;
 
     class Program
     {
+        // static significa que o método pode ser chamado diretamente na classe ao invés de 
+        // precisar instanciar a classe Program primeiro. void porque não retorna nada
         static void Main()
         {
             // Instancia a classe Sorteio
