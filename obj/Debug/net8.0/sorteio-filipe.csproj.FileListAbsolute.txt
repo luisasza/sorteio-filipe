@@ -12,3 +12,4 @@ C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\refint\sorteio-filipe.dll
 C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.pdb
 C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.genruntimeconfig.cache
 C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\ref\sorteio-filipe.dll
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.sourcelink.json

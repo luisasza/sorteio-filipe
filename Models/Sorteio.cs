@@ -93,7 +93,7 @@ namespace sorteio_filipe.Models
         // método privado (accessível na classe) e void (retorna nada) que sorteia um número a ser guessed
         private void IniciarSorteio()
         {
-            Console.WriteLine($"Você terá {tentativas} tentativas para advinhar um número entre {min} e {max}. Digite um número:");
+            Console.WriteLine($"Você terá {tentativas} tentativas para advinhar um número entre {min} e {max}.");
             sorteio = new Random().Next(min, max);
         }
 
