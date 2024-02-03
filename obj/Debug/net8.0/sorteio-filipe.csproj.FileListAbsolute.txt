@@ -1,0 +1,14 @@
+C:\VSCODE\C#\sorteio-filipe\bin\Debug\net8.0\sorteio-filipe.exe
+C:\VSCODE\C#\sorteio-filipe\bin\Debug\net8.0\sorteio-filipe.deps.json
+C:\VSCODE\C#\sorteio-filipe\bin\Debug\net8.0\sorteio-filipe.runtimeconfig.json
+C:\VSCODE\C#\sorteio-filipe\bin\Debug\net8.0\sorteio-filipe.dll
+C:\VSCODE\C#\sorteio-filipe\bin\Debug\net8.0\sorteio-filipe.pdb
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.AssemblyInfoInputs.cache
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.AssemblyInfo.cs
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.csproj.CoreCompileInputs.cache
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.dll
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\refint\sorteio-filipe.dll
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.pdb
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\sorteio-filipe.genruntimeconfig.cache
+C:\VSCODE\C#\sorteio-filipe\obj\Debug\net8.0\ref\sorteio-filipe.dll
